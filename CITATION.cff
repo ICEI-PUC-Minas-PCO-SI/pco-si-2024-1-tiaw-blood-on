@@ -1,6 +1,6 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: Coloque aqui o título do seu projeto
+title: Blood-On
 authors:
   - family-names: Villarreal
     given-names: Caique
@@ -19,7 +19,7 @@ authors:
 keywords:
   - sangue
   - doação
-repository-code: link do seu repositório no GitHub 
+repository-code: https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-blood-on.git
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2024-07-04
