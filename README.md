@@ -17,4 +17,6 @@ O objetivo do projeto Blood-On é criar um site que facilite o processo de doaç
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para instalar o projeto aperte o botão <>code e copie o link de clonagem do servidor. Crie então uma pasta vazia no seu computador, abra ela com o seu editor de código (preferencialmente o Visual Studio Code, que pode ser baixado aqui: https://code.visualstudio.com/) e use o link para clonar o repositório. A partir disso, será necessário instalar o node.js (https://nodejs.org/en) e executar o comando "npm install json-server". Assim que a instalação terminar, execute o comando "json-server --watch" adicionando o caminho da pasta de origem do comando até o arquivo "db.json", presente em codigo/Assets. Se este comando não funcionar, execute o comando "json-server.cmd" adicionando o caminho da pasta de origem do comando até o arquivo "db.json".
+
+É possível também executar o programa no vercel, cujo link de acesso é https://pco-si-2024-1-tiaw-blood-on.vercel.app/
