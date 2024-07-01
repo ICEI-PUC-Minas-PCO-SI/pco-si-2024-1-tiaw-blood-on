@@ -1,65 +1,33 @@
-<<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Coloque aqui o título do seu projeto
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 1
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 2
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 3
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 4
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 5
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 6
+  - family-names: Sobrenomes
+    given-names: Nome do aluno 7
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Soares Vieira de Vasconcelos
+    given-names: Amália
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vilela Cardoso
+    given-names: Leonardo
 keywords:
-  - 
-  - 
-repository-code: 
+  - palavra-chave 1
+  - palavra-chave 2
+repository-code: link do seu repositório no GitHub 
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
-=======
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-keywords:
-  - 
-  - 
-repository-code: 
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2022-07-14
->>>>>>> 576e4073eb686b7caee5801aac8f95491eb4d605
+date-released: 2024-07-04
