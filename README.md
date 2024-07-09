@@ -4,14 +4,14 @@ O objetivo do projeto Blood-On é criar um site que facilite o processo de doaç
 
 ## Alunos integrantes da equipe
 
-* Samuel Vital Santos Silva
 * Caique Villarreal
 * Fernando Oliveira Soares
+* Samuel Vital Santos Silva
 
 ## Professores responsáveis
 
-* Leonardo Vilela Cardoso
 * Amália Soares Vieira de Vasconcelos
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
